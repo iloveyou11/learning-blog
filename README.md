@@ -9,9 +9,17 @@
 
 <h3>js系列</h3>
 <ul>
-  <li><a href="https://github.com/iloveyou11/learning-blog/issues/10" target="_blank">前端进阶学习笔记（有道云）</a></li>
-  <li><a href="https://github.com/iloveyou11/learning-blog/issues/11" target="_blank">前端框架&原理 动手实现</a></li>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/10" target="_blank">前端进阶学习笔记</a></li>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/11" target="_blank">前端框架及原理 动手实现</a></li>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/14" target="_blank">js执行机制与事件循环</a></li>
 </ul>
+
+<h3>react系列</h3>
+<ul>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/15" target="_blank">自定义hook</a></li>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/16" target="_blank">Fiber设计思想 & 执行原理</a></li>
+</ul>
+
 
 <h3>源码系列</h3>
 <ul>
@@ -26,6 +34,7 @@
 <h3>算法系列</h3>
 <ul>
   <li><a href="https://github.com/iloveyou11/learning-blog/issues/8" target="_blank">剑指offer刷题</a></li>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/13" target="_blank">leetcode刷题</a></li>
   <li><a href="https://github.com/iloveyou11/learning-blog/issues/12" target="_blank">动态规划DP</a></li>
 </ul>
 
