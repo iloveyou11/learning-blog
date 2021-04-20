@@ -7,6 +7,12 @@
 <p align="center"><a href="https://github.com/iloveyou11/learning-blog/issues">所有文章</a></p>
 <p align="center">欢迎阅读，喜欢的话可以给个小星星~</p>
 
+<h3>js系列</h3>
+<ul>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/10" target="_blank">前端进阶学习笔记（有道云）</a></li>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/11" target="_blank">前端框架&原理 动手实现</a></li>
+</ul>
+
 <h3>源码系列</h3>
 <ul>
   <li><a href="https://github.com/iloveyou11/learning-blog/issues/1" target="_blank">jquery源码分析</a></li>
