@@ -26,6 +26,7 @@
 <h3>算法系列</h3>
 <ul>
   <li><a href="https://github.com/iloveyou11/learning-blog/issues/8" target="_blank">剑指offer刷题</a></li>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/12" target="_blank">动态规划DP</a></li>
 </ul>
 
 <h3>感想总结</h3>
