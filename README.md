@@ -16,3 +16,14 @@
   <li><a href="https://github.com/iloveyou11/learning-blog/issues/5" target="_blank">react fiber源码分析</a></li>
   <li><a href="https://github.com/iloveyou11/learning-blog/issues/6" target="_blank">momentjs源码分析</a></li>
 </ul>
+
+<h3>算法系列</h3>
+<ul>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/8" target="_blank">剑指offer刷题</a></li>
+</ul>
+
+<h3>感想总结</h3>
+<ul>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/7" target="_blank">关于大前端的思考</a></li>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/9" target="_blank">BAT大佬分享</a></li>
+</ul>
