@@ -37,7 +37,13 @@
   <li><a href="https://github.com/iloveyou11/learning-blog/issues/12" target="_blank">动态规划DP</a></li>
 </ul>
 
-<h3>感想总结</h3>
+<h3>开源系列</h3>
+<ul>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/17" target="_blank">iMove 基于 X6 + form-render 背后的思考</a></li>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/18" target="_blank">开源项目应该怎么做? iMove 带你认识一下</a></li>
+</ul>
+
+<h3>感想系列</h3>
 <ul>
   <li><a href="https://github.com/iloveyou11/learning-blog/issues/7" target="_blank">关于大前端的思考</a></li>
   <li><a href="https://github.com/iloveyou11/learning-blog/issues/9" target="_blank">BAT大佬分享</a></li>
