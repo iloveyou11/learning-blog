@@ -9,7 +9,7 @@
 
 <h3>js系列</h3>
 <ul>
-  <li><a href="https://github.com/iloveyou11/learning-blog/issues/10" target="_blank">前端进阶学习笔记</a></li>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/10" target="_blank">前端学习笔记汇总（有道云）</a></li>
   <li><a href="https://github.com/iloveyou11/learning-blog/issues/14" target="_blank">js执行机制与事件循环</a></li>
   <li><a href="https://github.com/iloveyou11/learning-blog/issues/11" target="_blank">webpack简易版实现</a></li>
   <li><a href="https://github.com/iloveyou11/learning-blog/issues/20" target="_blank">react-router实现</a></li>
@@ -45,7 +45,6 @@
 <h3>算法系列</h3>
 <ul>
   <li><a href="https://github.com/iloveyou11/learning-blog/issues/8" target="_blank">剑指offer刷题</a></li>
-  <li><a href="https://github.com/iloveyou11/learning-blog/issues/13" target="_blank">leetcode刷题</a></li>
   <li><a href="https://github.com/iloveyou11/learning-blog/issues/12" target="_blank">动态规划DP</a></li>
 </ul>
 
