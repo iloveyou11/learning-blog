@@ -10,8 +10,20 @@
 <h3>js系列</h3>
 <ul>
   <li><a href="https://github.com/iloveyou11/learning-blog/issues/10" target="_blank">前端进阶学习笔记</a></li>
-  <li><a href="https://github.com/iloveyou11/learning-blog/issues/11" target="_blank">前端框架及原理 动手实现</a></li>
   <li><a href="https://github.com/iloveyou11/learning-blog/issues/14" target="_blank">js执行机制与事件循环</a></li>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/11" target="_blank">webpack简易版实现</a></li>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/20" target="_blank">react-router实现</a></li>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/21" target="_blank">手写DOM diff算法</a></li>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/22" target="_blank">vue中MVVM模式实现</a></li>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/23" target="_blank">手写express框架（简洁版）</a></li>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/24" target="_blank">手写koa框架（简洁版）</a></li>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/25" target="_blank">从零开始实现一个Promise</a></li>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/26" target="_blank">动手封装jquery中的ajax方法</a></li>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/27" target="_blank">call、apply手写实现与应用</a></li>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/28" target="_blank">js关于数据扁平化的处理方法</a></li>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/29" target="_blank">深拷贝的实现方法</a></li>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/30" target="_blank">重新认识防抖和节流</a></li>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/31" target="_blank">常见的一些函数思想</a></li>
 </ul>
 
 <h3>react系列</h3>
