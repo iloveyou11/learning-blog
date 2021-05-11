@@ -26,7 +26,7 @@
   <li><a href="https://github.com/iloveyou11/learning-blog/issues/31" target="_blank">常见的一些函数思想</a></li>
 </ul>
 
-<h3>react系列</h3>
+<h3>框架系列</h3>
 <ul>
   <li><a href="https://github.com/iloveyou11/learning-blog/issues/15" target="_blank">自定义hook</a></li>
   <li><a href="https://github.com/iloveyou11/learning-blog/issues/16" target="_blank">Fiber设计思想 & 执行原理</a></li>
@@ -46,6 +46,13 @@
 <ul>
   <li><a href="https://github.com/iloveyou11/learning-blog/issues/8" target="_blank">剑指offer刷题</a></li>
   <li><a href="https://github.com/iloveyou11/learning-blog/issues/12" target="_blank">动态规划DP</a></li>
+</ul>
+
+<h3>计算机系列</h3>
+<ul>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/36" target="_blank">vim编辑器实操</a></li>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/37" target="_blank">拿下git rebase</a></li>
+  <li><a href="./debug.pdf" target="_blank">web debug方法实操</a></li>
 </ul>
 
 <h3>开源系列</h3>
