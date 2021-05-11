@@ -64,15 +64,15 @@
 <h3>感想系列</h3>
 <ul>
   <li><a href="https://github.com/iloveyou11/learning-blog/issues/7" target="_blank">关于大前端的思考</a></li>
-  <li><a href="https://github.com/iloveyou11/learning-blog/issues/9" target="_blank">BAT大佬分享</a></li>
   <li><a href="https://github.com/iloveyou11/learning-blog/issues/32" target="_blank">关于成长压力</a></li>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/9" target="_blank">BAT大佬分享</a></li>
 </ul>
 
 <h3>诗歌散文系列</h3>
 <ul>
   <li><a href="https://github.com/iloveyou11/learning-blog/issues/33" target="_blank">随音乐奔跑的孩子</a></li>
   <li><a href="https://github.com/iloveyou11/learning-blog/issues/34" target="_blank">回家的问候</a></li>
-  <li><a href="https://github.com/iloveyou11/learning-blog/issues/35" target="_blank">简讯</a></li>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/35" target="_blank">那一夜的他</a></li>
 </ul>
 
 <h3>学习计划</h3>
