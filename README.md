@@ -62,9 +62,9 @@
 
 <h3>感想系列</h3>
 <ul>
-  <li><a href="https://github.com/iloveyou11/learning-blog/issues/7" target="_blank">关于大前端的思考</a></li>
   <li><a href="https://github.com/iloveyou11/learning-blog/issues/32" target="_blank">关于成长压力</a></li>
-  <li><a href="https://github.com/iloveyou11/learning-blog/issues/9" target="_blank">BAT大佬分享</a></li>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/9" target="_blank">BAT大佬分享记录</a></li>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/7" target="_blank">前端成长路上的思考</a></li>
 </ul>
 
 <h3>诗歌散文系列</h3>
