@@ -73,7 +73,7 @@
   <li><a href="https://github.com/iloveyou11/learning-blog/issues/34" target="_blank">回家的问候</a></li>
   <li><a href="https://github.com/iloveyou11/learning-blog/issues/35" target="_blank">那一夜的他</a></li>
   <li><a href="https://github.com/iloveyou11/learning-blog/issues/38" target="_blank">行到水穷处，坐看云起时</a></li>
-  <li><a href="https://github.com/iloveyou11/learning-blog/issues/39" target="_blank">闲暇时写的诗歌</a></li>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/39" target="_blank">静夜“思”</a></li>
   <li><a href="https://github.com/iloveyou11/learning-blog/issues/40" target="_blank">喜欢的现代诗歌精选</a></li>
 </ul>
 
