@@ -77,7 +77,7 @@
   <li><a href="https://github.com/iloveyou11/learning-blog/issues/40" target="_blank">喜欢的现代诗歌精选</a></li>
 </ul>
 
-<h3>学习计划</h3>
+<h3>闲暇时看看</h3>
 <ul>
-  <li><a href="https://github.com/iloveyou11/learning-blog/issues/19" target="_blank">2021 learning route</a></li>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/19" target="_blank">2021—抽空学习的内容</a></li>
 </ul>
