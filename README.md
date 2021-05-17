@@ -46,6 +46,11 @@
   <li><a href="https://github.com/iloveyou11/learning-blog/issues/12" target="_blank">动态规划DP</a></li>
 </ul>
 
+<h3>AI系列</h3>
+<ul>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/39" target="_blank">机器学习项目实战——tensorflow python框架 </a></li>
+</ul>
+
 <h3>计算机系列</h3>
 <ul>
   <li><a href="https://github.com/iloveyou11/learning-blog/issues/36" target="_blank">vim编辑器实操</a></li>
