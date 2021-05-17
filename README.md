@@ -48,7 +48,7 @@
 
 <h3>AI系列</h3>
 <ul>
-  <li><a href="https://github.com/iloveyou11/learning-blog/issues/39" target="_blank">机器学习项目tensorflow实战</a></li>
+  <li><a href="https://github.com/iloveyou11/learning-blog/issues/41" target="_blank">机器学习项目tensorflow实战</a></li>
 </ul>
 
 <h3>计算机系列</h3>
